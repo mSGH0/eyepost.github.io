@@ -85,7 +85,7 @@ footer div h6{
 }
 }
 /*responsiveness - will finish the creation*/
-@media only screen and (max-width:  1080px){
+/*@media only screen and (max-width:  1080px){
   .header{
     background: yellow;
   }
@@ -125,4 +125,4 @@ footer div h6{
   footer{
     
   }
-}
+}*/
